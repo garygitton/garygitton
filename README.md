@@ -29,14 +29,14 @@
 > Tools, languages, and other things that I like to work with.
 
 <div>
-    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php" height="48" alt="PHP" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js" height="48" alt="Node.js" />
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js" height="48" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony" height="48" alt="Symfony" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" height="48" alt="Docker" />
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" height="48" alt="AWS" />
-    <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud" height="48" alt="GCP" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" height="48" alt="Python" />
-    <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow" height="48" alt="Apache Airflow" />
-    <img src="https://img.shields.io/badge/-Redash-FF2D20?style=flat-square&logo=redash" height="48" alt="Redash" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php" height="24" alt="PHP" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js" height="24" alt="Node.js" />
+    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js" height="24" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony" height="24" alt="Symfony" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" height="24" alt="Docker" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" height="24" alt="AWS" />
+    <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud" height="24" alt="GCP" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" height="24" alt="Python" />
+    <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow" height="24" alt="Apache Airflow" />
+    <img src="https://img.shields.io/badge/-Redash-FF2D20?style=flat-square&logo=redash" height="24" alt="Redash" />
 </div>

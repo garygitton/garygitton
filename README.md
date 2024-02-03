@@ -1,17 +1,14 @@
-<h1 align="left" id="gary-gitton-title">:wave: Hello there! I'm Gary Gitton</h1>
+<h1 align="left" id="gary-gitton-title">:wave: Welcome! I'm Gary Gitton</h1>
 <h3 align="left">Lead Tech | Software Engineer | API Evangelist</h3>
 
 <p align="left">
-  <a href="https://github.com/garygitton">
-    <img src="https://komarev.com/ghpvc/?username=garygitton" alt="page views" />
-  </a>
-  <a href="http://www.garygitton.fr">
-    <img alt="Website" src="https://img.shields.io/website?url=http%3A%2F%2Fwww.garygitton.fr">
-  </a>
   <a href="https://www.linkedin.com/in/garygitton">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
   </a>
   <a href="https://twitter.com/garygitton">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/garygitton?style=social">
+  </a>
+      <a href="https://facebook.com/garygitton">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/garygitton?style=social">
   </a>
 </p>
@@ -30,13 +27,35 @@
 
 <div>
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php" height="24" alt="PHP" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js" height="24" alt="Node.js" />
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js" height="24" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony" height="24" alt="Symfony" />
+    <img src="https://img.shields.io/badge/-Laminas-000000?style=flat-square&logo=laminas" height="24" alt="Laminas" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" height="24" alt="Docker" />
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" height="24" alt="AWS" />
-    <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud" height="24" alt="GCP" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" height="24" alt="Python" />
     <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow" height="24" alt="Apache Airflow" />
     <img src="https://img.shields.io/badge/-Redash-FF2D20?style=flat-square&logo=redash" height="24" alt="Redash" />
 </div>
+
+
+### What I Do
+- **Full Stack Development:** Specializing in technologies like PHP, Vue.js, Laminas, and more.
+- **API Expertise:** Passionate about designing and implementing efficient, scalable APIs.
+- **Mentorship:** Committed to sharing knowledge and guiding others in their tech journey.
+- **Open Source Contribution:** Actively contributing to the open-source community.
+- **Tech Consulting:** Providing consulting services in areas like API, PHP, DevOps, Airtable, and AI.
+
+### My GitHub Projects
+Here you'll find projects where I've transposed various standards to PHP, listed alphabetically:
+- [Standard ISO 3166-1 (Country Codes)](https://github.com/php-standard-iso/iso-3166-1)
+- [Standard ISO 3166-2 (Country Subdivision Codes)](https://github.com/php-standard-iso/iso-3166-2)
+- [Standard ISO 4217 (Currency Codes)](https://github.com/php-standard-iso/iso-4217)
+- [Standard ISO 639 Part1 (Languages - Part 1)](https://github.com/php-standard-iso/iso-639-1)
+- [Standard ISO 639-2 (Languages - Part 2)](https://github.com/php-standard-iso/iso-639-2)
+- [Standard IETF RFC3986 (URI)](https://github.com/php-standard-ietf/rfc3986)
+- [Standard IETF Rfc5234 (ABNF Syntax)](https://github.com/php-standard-ietf/rfc5234)
+- [Standard ITU-T E.212 (Mobile Country Codes)](https://github.com/php-standard-itu-t/e164)
+
+### Connect with Me
+- [LinkedIn Profile](https://www.linkedin.com/in/garygitton)
+- [Tech Blog](http://www.garygitton.fr)
+- [Twitter](https://twitter.com/garygitton)

@@ -19,22 +19,19 @@
 - :book: &nbsp;Learn more about my work on my **[Tech Blog](http://www.garygitton.fr)**
 - :mailbox: &nbsp;Feel free to reach out to me on **[LinkedIn](https://www.linkedin.com/in/garygitton)**
 
-<br>
 
 <h2 align="left" id="gary-gitton-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
-<div>
-    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php" height="24" alt="PHP" />
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js" height="24" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/-Laminas-000000?style=flat-square&logo=laminas" height="24" alt="Laminas" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" height="24" alt="Docker" />
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" height="24" alt="AWS" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" height="24" alt="Python" />
-    <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow" height="24" alt="Apache Airflow" />
-    <img src="https://img.shields.io/badge/-Redash-FF2D20?style=flat-square&logo=redash" height="24" alt="Redash" />
-</div>
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)](https://www.php.net/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)](https://vuejs.org/)
+[![Laminas](https://img.shields.io/badge/-Laminas-000000?style=flat-square&logo=laminas)](https://getlaminas.org/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)](https://www.python.org/)
+[![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow)](https://airflow.apache.org/)
+[![Redash](https://img.shields.io/badge/-Redash-FF2D20?style=flat-square&logo=redash)](https://redash.io/)
 
 
 ### What I Do

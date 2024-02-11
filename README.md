@@ -46,10 +46,10 @@ Here you'll find projects where I've transposed various standards to PHP, listed
 - [Standard ISO 3166-1 (Country Codes)](https://github.com/php-standard-iso/iso-3166-1)
 - [Standard ISO 3166-2 (Country Subdivision Codes)](https://github.com/php-standard-iso/iso-3166-2)
 - [Standard ISO 4217 (Currency Codes)](https://github.com/php-standard-iso/iso-4217)
-- [Standard ISO 639 Part1 (Languages - Part 1)](https://github.com/php-standard-iso/iso-639-1)
+- [Standard ISO 639-1 (Languages - Part 1)](https://github.com/php-standard-iso/iso-639-1)
 - [Standard ISO 639-2 (Languages - Part 2)](https://github.com/php-standard-iso/iso-639-2)
-- [Standard IETF RFC3986 (URI)](https://github.com/php-standard-ietf/rfc3986)
-- [Standard IETF Rfc5234 (ABNF Syntax)](https://github.com/php-standard-ietf/rfc5234)
+- [Standard IETF RFC 3986 (URI)](https://github.com/php-standard-ietf/rfc3986)
+- [Standard IETF RFC 5234 (ABNF Syntax)](https://github.com/php-standard-ietf/rfc5234)
 - [Standard ITU-T E.212 (Mobile Country Codes)](https://github.com/php-standard-itu-t/e164)
 
 ### Connect with Me

@@ -8,9 +8,6 @@
   <a href="https://twitter.com/garygitton">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/garygitton?style=social">
   </a>
-      <a href="https://facebook.com/garygitton">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/garygitton?style=social">
-  </a>
 </p>
 
 - :office: &nbsp;I'm currently based in **Paris, France**

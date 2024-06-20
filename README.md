@@ -1,5 +1,5 @@
 <h1 align="left" id="gary-gitton-title">:wave: Welcome! I'm Gary Gitton</h1>
-<h3 align="left">Lead Tech | Software Engineer | API Evangelist</h3>
+<h3 align="left">Lead Tech @  Tylia Invest (we are hiring)</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/garygitton">

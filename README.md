@@ -1,8 +1,5 @@
 <h1 align="left" id="gary-gitton-title">:wave: Welcome! I'm Gary Gitton</h1>
-<h3 align="left">Lead Tech @  <a href="https://www.welcometothejungle.com/fr/companies/tylia">
-    Tylia Invest (we are hiring)
-</a>
-</h3>
+<h3 align="left">Lead Tech @  Tylia Invest (we are hiring)</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/garygitton">
@@ -42,7 +39,7 @@
 - **Tech Consulting:** Providing consulting services in areas like API, PHP, DevOps, Airtable, and AI.
 
 ### My GitHub Projects
-Here you'll find projects where I've transposed various standards to PHP, listed alphabetically:
+#### Standards
 - [Standard ISO 3166-1 (Country Codes)](https://github.com/php-standard-iso/iso-3166-1)
 - [Standard ISO 3166-2 (Country Subdivision Codes)](https://github.com/php-standard-iso/iso-3166-2)
 - [Standard ISO 4217 (Currency Codes)](https://github.com/php-standard-iso/iso-4217)
@@ -51,6 +48,17 @@ Here you'll find projects where I've transposed various standards to PHP, listed
 - [Standard IETF RFC 3986 (URI)](https://github.com/php-standard-ietf/rfc3986)
 - [Standard IETF RFC 5234 (ABNF Syntax)](https://github.com/php-standard-ietf/rfc5234)
 - [Standard ITU-T E.212 (Mobile Country Codes)](https://github.com/php-standard-itu-t/e164)
+
+#### Service Provider Client
+- [Client for Staffomatic API](https://github.com/garygitton/staffomatic-api-client)
+- [Client for Hiboutik API](https://github.com/garygitton/hiboutik-api-client)
+
+### Service Provider SDK
+- [SDK for PSA Connected Car API](https://github.com/garygitton/psa-connected-car-sdk-php))
+
+#### Utilitaries
+- [Client Http through TOR onion network](https://github.com/garygitton/tor-http-client)
+- [Collection of dockerignore template](https://github.com/garygitton/dockerignore)
 
 ### Connect with Me
 - [LinkedIn Profile](https://www.linkedin.com/in/garygitton)

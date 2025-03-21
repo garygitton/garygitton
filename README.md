@@ -5,12 +5,12 @@
   <a href="https://www.linkedin.com/in/garygitton">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
   </a>
-  <a href="https://twitter.com/garygitton">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/garygitton?style=social">
+  <a href="https://x.com/garygitton">
+    <img alt="X" src="https://img.shields.io/twitter/follow/garygitton?style=social">
   </a>
 </p>
 
-- :office: &nbsp;I'm currently based in **Paris, France**
+- :office: &nbsp;Based in **Paris, France**
 - :seedling: &nbsp;I’m currently working on **various open-source PHP standards**
 - :speech_balloon: &nbsp;I like to talk about **APIs**, **DevOps**, and **Software Engineering**
 - :book: &nbsp;Learn more about my work on my **[Tech Blog](http://www.garygitton.fr)**
@@ -32,7 +32,7 @@
 
 
 ### What I Do
-- **Full Stack Development:** Specializing in technologies like PHP, Vue.js, Laminas, and more.
+- **Full Stack Development:** Specializing in technologies like PHP, Vue.js, Laminas, and more.s
 - **API Expertise:** Passionate about designing and implementing efficient, scalable APIs.
 - **Mentorship:** Committed to sharing knowledge and guiding others in their tech journey.
 - **Open Source Contribution:** Actively contributing to the open-source community.

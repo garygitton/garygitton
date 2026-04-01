@@ -1,4 +1,4 @@
-<h1 align="left" id="gary-gitton-title">:wave: Welcome! I'm Gary Gitton</h1>
+<h1 align="left" id="gary-gitton-title">Hi, I'm Gary Gitton</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/garygitton">
@@ -9,16 +9,23 @@
   </a>
 </p>
 
-- :office: &nbsp;Based in **Paris, France**
-- :seedling: &nbsp;I’m currently working on **various open-source PHP standards**
-- :speech_balloon: &nbsp;I like to talk about **APIs**, **DevOps**, and **Software Engineering**
-- :book: &nbsp;Learn more about my work on my **[Tech Blog](http://www.garygitton.fr)**
-- :mailbox: &nbsp;Feel free to reach out to me on **[LinkedIn](https://www.linkedin.com/in/garygitton)**
+- Based in **Paris, France**
+- I help **fast-growing startups** scale products, teams, and execution systems
+- I work as a **Fractional CTO / Tech Lead / AI Product Builder**
+- I like building around **APIs**, **DevOps**, **software architecture**, and **practical AI**
+- Learn more on my **[LinkedIn](https://www.linkedin.com/in/garygitton)** or **[Calendly](https://calendly.com/garygitton/scaling-call)**
 
+## What I Do
 
-<h2 align="left" id="gary-gitton-tech">Favorite Tech</h2>
+- **Fractional CTO:** technical leadership for startups that need senior guidance without a full-time hire
+- **Scaling Audits:** architecture, delivery, hiring, and bottleneck review
+- **Product Engineering:** turning ideas into shippable software that can grow
+- **DevOps / Delivery:** improving reliability, release flow, and execution speed
+- **AI Product Thinking:** using AI in ways that create real business value
 
-> Tools, languages, and other things that I like to work with.
+## Favorite Tech
+
+> Tools and technologies I like to work with.
 
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)](https://www.php.net/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)](https://vuejs.org/)
@@ -27,39 +34,33 @@
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow)](https://airflow.apache.org/)
-[![Redash](https://img.shields.io/badge/-Redash-FF2D20?style=flat-square&logo=redash)](https://redash.io/)
 
+## Selected Work
 
-### What I Do
-- **Full Stack Development:** Specializing in technologies like PHP, Vue.js, Laminas, and more.s
-- **API Expertise:** Passionate about designing and implementing efficient, scalable APIs.
-- **Mentorship:** Committed to sharing knowledge and guiding others in their tech journey.
-- **Open Source Contribution:** Actively contributing to the open-source community.
-- **Tech Consulting:** Providing consulting services in areas like API, PHP, DevOps, Airtable, and AI.
+### Standards and open source
 
-### My GitHub Projects
-#### Standards
 - [Standard ISO 3166-1 (Country Codes)](https://github.com/php-standard-iso/iso-3166-1)
 - [Standard ISO 3166-2 (Country Subdivision Codes)](https://github.com/php-standard-iso/iso-3166-2)
 - [Standard ISO 4217 (Currency Codes)](https://github.com/php-standard-iso/iso-4217)
 - [Standard ISO 639-1 (Languages - Part 1)](https://github.com/php-standard-iso/iso-639-1)
-- [Standard ISO 639-2 (Languages - Part 2)](https://github.com/php-standard-iso/iso-639-2)
 - [Standard IETF RFC 3986 (URI)](https://github.com/php-standard-ietf/rfc3986)
-- [Standard IETF RFC 5234 (ABNF Syntax)](https://github.com/php-standard-ietf/rfc5234)
-- [Standard ITU-T E.212 (Mobile Country Codes)](https://github.com/php-standard-itu-t/e164)
 
-#### Service Provider Client
-- [Client for Staffomatic API](https://github.com/garygitton/staffomatic-api-client)
-- [Client for Hiboutik API](https://github.com/garygitton/hiboutik-api-client)
+### Clients and tooling
 
-### Service Provider SDK
-- [SDK for PSA Connected Car API](https://github.com/garygitton/psa-connected-car-sdk-php))
+- [Staffomatic API Client](https://github.com/garygitton/staffomatic-api-client)
+- [Hiboutik API Client](https://github.com/garygitton/hiboutik-api-client)
+- [PSA Connected Car SDK](https://github.com/garygitton/psa-connected-car-sdk-php)
+- [TOR HTTP Client](https://github.com/garygitton/tor-http-client)
+- [Dockerignore Templates](https://github.com/garygitton/dockerignore)
 
-#### Utilitaries
-- [Client Http through TOR onion network](https://github.com/garygitton/tor-http-client)
-- [Collection of dockerignore template](https://github.com/garygitton/dockerignore)
+## How I Work
 
-### Connect with Me
-- [LinkedIn Profile](https://www.linkedin.com/in/garygitton)
+- I care about clarity, leverage, and clean execution.
+- I prefer shipping useful systems over overengineering.
+- I like building things that are technically solid and commercially relevant.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/garygitton)
+- [Calendly](https://calendly.com/garygitton/scaling-call)
 - [Tech Blog](http://www.garygitton.fr)
-- [Twitter](https://twitter.com/garygitton)

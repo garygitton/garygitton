@@ -23,18 +23,6 @@
 - **DevOps / Delivery:** improving reliability, release flow, and execution speed
 - **AI Product Thinking:** using AI in ways that create real business value
 
-## Favorite Tech
-
-> Tools and technologies I like to work with.
-
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)](https://www.php.net/)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)](https://vuejs.org/)
-[![Laminas](https://img.shields.io/badge/-Laminas-000000?style=flat-square&logo=laminas)](https://getlaminas.org/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)](https://www.python.org/)
-[![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow)](https://airflow.apache.org/)
-
 ## Selected Work
 
 ### Standards and open source
